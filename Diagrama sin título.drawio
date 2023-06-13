@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T17:50:54.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="60hOkssxMgbmLznICaPn" version="21.3.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-13T18:00:33.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fUTbIGOmG3_Uscrip8X6" version="21.3.8" type="github" pages="2">
   <diagram name="Página-1" id="xhw7fp3F8fv-ghbMesje">
     <mxGraphModel dx="2523" dy="1570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -851,7 +851,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IYpeSn9tzT-RnQb232m" name="Página-2">
-    <mxGraphModel dx="1444" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -898,13 +898,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iv9MKw9CIJdKlp-4zG9U-33" value="Administrador" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="331" y="209" width="160" height="60" as="geometry" />
+          <mxGeometry x="331" y="175" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="iv9MKw9CIJdKlp-4zG9U-35" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#46495D;" vertex="1" parent="iv9MKw9CIJdKlp-4zG9U-33">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="iv9MKw9CIJdKlp-4zG9U-36" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#46495D;" vertex="1" parent="iv9MKw9CIJdKlp-4zG9U-33">
+        <mxCell id="iv9MKw9CIJdKlp-4zG9U-36" value="+ crearAsignaturas(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#46495D;" vertex="1" parent="iv9MKw9CIJdKlp-4zG9U-33">
           <mxGeometry y="34" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iv9MKw9CIJdKlp-4zG9U-52" value="+ crearUsuarios(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#46495D;" vertex="1" parent="iv9MKw9CIJdKlp-4zG9U-33">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iv9MKw9CIJdKlp-4zG9U-53" value="+ crearAsignaciones: void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#46495D;" vertex="1" parent="iv9MKw9CIJdKlp-4zG9U-33">
+          <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iv9MKw9CIJdKlp-4zG9U-37" value="Docente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="331" y="316" width="178" height="190" as="geometry" />
