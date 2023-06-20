@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T16:03:48.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yIXa8--29yGwkok92gyD" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-20T16:06:14.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GiKL_vEtBdOfpRv49pMY" version="21.3.8" type="github" pages="3">
   <diagram name="Página-1" id="xhw7fp3F8fv-ghbMesje">
     <mxGraphModel dx="2964" dy="1827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1098,7 +1098,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cDXR8At16hIQ23spoi4p" name="Página-3">
-    <mxGraphModel dx="1222" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1112,7 +1112,7 @@
           <mxGeometry x="645" y="257" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zejiD7c6FnAacMTH6cdt-4" value="Iniciar Sesion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="149" width="101" height="47" as="geometry" />
+          <mxGeometry x="421" y="108" width="101" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zejiD7c6FnAacMTH6cdt-5" value="Sistema control de versiones de Planes microcurriculares" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="224" y="61" width="348" height="30" as="geometry">
@@ -1161,7 +1161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-9" value="Crear usuarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="225" width="109" height="47" as="geometry" />
+          <mxGeometry x="401" y="194" width="109" height="47" as="geometry" />
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;targetPerimeterSpacing=10;sourcePerimeterSpacing=10;" edge="1" parent="1" source="zejiD7c6FnAacMTH6cdt-2" target="97geYBqEOc3_xkGiHHgn-9">
           <mxGeometry relative="1" as="geometry">
@@ -1170,8 +1170,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="97geYBqEOc3_xkGiHHgn-11" value="Asignar plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="291" width="101" height="40" as="geometry" />
+        <mxCell id="97geYBqEOc3_xkGiHHgn-11" value="Asignar y administrar &lt;br&gt;planes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="261.5" width="160" height="51" as="geometry" />
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;targetPerimeterSpacing=10;sourcePerimeterSpacing=10;" edge="1" parent="1" source="zejiD7c6FnAacMTH6cdt-2" target="97geYBqEOc3_xkGiHHgn-11">
           <mxGeometry relative="1" as="geometry">
@@ -1191,7 +1191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-16" value="Recibir solicitudes de&lt;br&gt;aprobacion de planes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="346" width="150" height="60" as="geometry" />
+          <mxGeometry x="392.5" y="339" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-17" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;targetPerimeterSpacing=10;sourcePerimeterSpacing=10;" edge="1" parent="1" source="zejiD7c6FnAacMTH6cdt-2" target="97geYBqEOc3_xkGiHHgn-16">
           <mxGeometry relative="1" as="geometry">
@@ -1201,7 +1201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-18" value="aprobar plan microcurricular" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404.75" y="453" width="125.5" height="44" as="geometry" />
+          <mxGeometry x="404.75" y="440" width="125.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="97geYBqEOc3_xkGiHHgn-19" value="&amp;lt;extends&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="97geYBqEOc3_xkGiHHgn-18" target="97geYBqEOc3_xkGiHHgn-16">
           <mxGeometry x="-0.2691" y="-33" width="160" relative="1" as="geometry">
