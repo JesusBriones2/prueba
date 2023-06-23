@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T16:14:05.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4OveK837mzJIP0VTWDMM" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-23T16:24:54.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P6LJzOQXxU6g5QAZnLmW" version="21.5.0" type="github" pages="3">
   <diagram name="tablas" id="xhw7fp3F8fv-ghbMesje">
-    <mxGraphModel dx="3469" dy="2120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="1378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IYpeSn9tzT-RnQb232m" name="clases">
-    <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1622" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,7 +939,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iv9MKw9CIJdKlp-4zG9U-63" value="Solicitud" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" vertex="1">
-          <mxGeometry x="620" y="294" width="160" height="294" as="geometry" />
+          <mxGeometry x="620" y="309" width="160" height="294" as="geometry" />
         </mxCell>
         <mxCell id="iv9MKw9CIJdKlp-4zG9U-64" value="- id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#46495D;" parent="iv9MKw9CIJdKlp-4zG9U-63" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
