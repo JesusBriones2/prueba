@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T03:15:52.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f9rU2skBswoqBxwtLNtU" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-24T03:21:48.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tEbgZLvEyynoUoJlzR2W" version="21.5.0" type="github" pages="4">
   <diagram name="tablas" id="xhw7fp3F8fv-ghbMesje">
     <mxGraphModel dx="1717" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1814,8 +1814,8 @@
         <mxCell id="y6-TCu_-Orlslp0XLJvJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="y6-TCu_-Orlslp0XLJvJ-35" target="AVcFx5JlP3oh261rr4Ph-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-623" y="71" />
-              <mxPoint x="-623" y="226" />
+              <mxPoint x="-632" y="71" />
+              <mxPoint x="-632" y="226" />
             </Array>
           </mxGeometry>
         </mxCell>
