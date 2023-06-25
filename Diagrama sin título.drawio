@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T15:17:46.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KzniF9cFRp8xhjz7lgFy" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-25T15:20:41.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qm4TCFW6PHhPtKMj2Aq8" version="21.5.0" type="github" pages="4">
   <diagram id="QJvsyMhZOs_XTJo9W8Ai" name="Diagrama Tablas">
-    <mxGraphModel dx="3069" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1010,7 +1010,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dbxtt0eRvG9deed7PxPG" name="Diagrama de clases">
-    <mxGraphModel dx="3069" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="1427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1224,9 +1224,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SSvCzHgCtjKMcS-272Kk-3" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SSvCzHgCtjKMcS-272Kk-2">
+        <mxCell id="SSvCzHgCtjKMcS-272Kk-3" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SSvCzHgCtjKMcS-272Kk-2">
           <mxGeometry x="-0.7541" y="-1" relative="1" as="geometry">
-            <mxPoint x="-2" y="-7" as="offset" />
+            <mxPoint x="2" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SSvCzHgCtjKMcS-272Kk-4" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SSvCzHgCtjKMcS-272Kk-2">
@@ -1295,7 +1295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-nYmBwBEYYi-PyAtIwmz-1" value="Modelo: Rol" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="301" y="129" width="160" height="112" as="geometry" />
+          <mxGeometry x="297" y="129" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="-nYmBwBEYYi-PyAtIwmz-2" value="- campos tabla: roles" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="-nYmBwBEYYi-PyAtIwmz-1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
