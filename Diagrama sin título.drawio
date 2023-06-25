@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T18:14:46.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="45Oi8fx82geUyhzUXXCr" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-25T18:26:25.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DaBsuJLqe5p4TIxWjpl8" version="21.5.0" type="github" pages="3">
   <diagram id="QJvsyMhZOs_XTJo9W8Ai" name="Diagrama Tablas">
     <mxGraphModel dx="3447" dy="1940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1210,7 +1210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cDXR8At16hIQ23spoi4p" name="casos de uso">
-    <mxGraphModel dx="-44" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="1427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1301,15 +1301,15 @@
             <mxPoint x="1094" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="pjlsc9sFPnhXn3jyCtAY-18" target="hoythyd_5jpaOBbaxdhi-1">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-3" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="pjlsc9sFPnhXn3jyCtAY-18" target="hoythyd_5jpaOBbaxdhi-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1384" y="216" as="sourcePoint" />
             <mxPoint x="1286" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-3">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=345;" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-3">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint x="7" y="16" as="offset" />
+            <mxPoint x="-8" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-7" value="crear documento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1323,18 +1323,18 @@
         </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-9">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint y="-9" as="offset" />
+            <mxPoint x="-6" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-11" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="pjlsc9sFPnhXn3jyCtAY-26" target="pjlsc9sFPnhXn3jyCtAY-21">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-11" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="pjlsc9sFPnhXn3jyCtAY-26" target="pjlsc9sFPnhXn3jyCtAY-21">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1199" y="195" as="sourcePoint" />
             <mxPoint x="1303" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-12" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-11">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=349;" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-11">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint x="6" y="18" as="offset" />
+            <mxPoint x="-4" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1387,22 +1387,23 @@
         <mxCell id="hoythyd_5jpaOBbaxdhi-29" value="aprobar tarea" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1294" y="571" width="105" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-30" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-29" target="hoythyd_5jpaOBbaxdhi-26">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-30" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-29" target="hoythyd_5jpaOBbaxdhi-26">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1304" y="676" as="sourcePoint" />
             <mxPoint x="1187" y="696" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-31" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-30">
-          <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint x="-17" y="-12" as="offset" />
+        <mxCell id="hoythyd_5jpaOBbaxdhi-32" value="devolver&lt;br&gt;tarea" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="701" width="105" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-35" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-32" target="hoythyd_5jpaOBbaxdhi-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1279" y="610" as="sourcePoint" />
+            <mxPoint x="1182" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-32" value="devolver&lt;br&gt;tarea" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="698" width="105" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-37" value="administrar carreras" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1063" y="719" width="133.5" height="37" as="geometry" />
+          <mxGeometry x="1048.5" y="713" width="133.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-38" value="administrar asignaturas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1048.5" y="788.37" width="116.5" height="37" as="geometry" />
@@ -1410,15 +1411,15 @@
         <mxCell id="hoythyd_5jpaOBbaxdhi-40" value="agregar comentarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1301" y="777.37" width="111" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-41" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-40" target="hoythyd_5jpaOBbaxdhi-37">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-41" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-40" target="hoythyd_5jpaOBbaxdhi-26">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1283" y="695" as="sourcePoint" />
             <mxPoint x="1188" y="695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-42" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-41">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-42" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=32;" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-41">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint x="-23" y="12" as="offset" />
+            <mxPoint x="-21" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-18" target="hoythyd_5jpaOBbaxdhi-37">
@@ -1433,8 +1434,25 @@
             <mxPoint x="1073" y="704" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-45" value="exportar plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1294" y="636" width="111" height="39.37" as="geometry" />
+        <mxCell id="hoythyd_5jpaOBbaxdhi-45" value="exportar plan&lt;br&gt;revisado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="636.63" width="111" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-48" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-45" target="hoythyd_5jpaOBbaxdhi-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1306" y="617" as="sourcePoint" />
+            <mxPoint x="1176" y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-52" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=343;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1229.9964965261017" y="616.0044478490629" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-53" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1254.9964965261017" y="650.0044478490629" as="geometry">
+            <mxPoint x="-9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-54" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1234.9964965261017" y="699.0044478490629" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
