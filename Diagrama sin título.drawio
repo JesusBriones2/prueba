@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T14:27:54.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EmxxjBD_0Q8W18n9j1B5" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-25T14:42:17.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JqZRGVvbJ_HutHBdeKtc" version="21.5.0" type="github" pages="4">
   <diagram id="QJvsyMhZOs_XTJo9W8Ai" name="Diagrama Tablas">
-    <mxGraphModel dx="2388" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2244" dy="1240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IYpeSn9tzT-RnQb232m" name="clases">
-    <mxGraphModel dx="1534" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1988" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,7 +1000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dbxtt0eRvG9deed7PxPG" name="Diagrama de clases">
-    <mxGraphModel dx="1236" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3047" dy="1940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1283,6 +1283,37 @@
         <mxCell id="SYOUDfbonig2cGGyN4Zn-9" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="SYOUDfbonig2cGGyN4Zn-1">
           <mxGeometry x="0.6921" relative="1" as="geometry">
             <mxPoint x="4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-nYmBwBEYYi-PyAtIwmz-1" value="Modelo: Rol" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="-257" width="160" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="-nYmBwBEYYi-PyAtIwmz-2" value="- campos tabla: roles" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="-nYmBwBEYYi-PyAtIwmz-1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-nYmBwBEYYi-PyAtIwmz-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="-nYmBwBEYYi-PyAtIwmz-1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="-nYmBwBEYYi-PyAtIwmz-5" value="+ obtener_id( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="-nYmBwBEYYi-PyAtIwmz-1">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-nYmBwBEYYi-PyAtIwmz-6" value="+ obtener_rol( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="-nYmBwBEYYi-PyAtIwmz-1">
+          <mxGeometry y="86" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-nYmBwBEYYi-PyAtIwmz-8" value="" style="endArrow=none;endFill=0;endSize=24;html=1;rounded=0;strokeColor=#23445D;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-nYmBwBEYYi-PyAtIwmz-1" target="ApN3_38QzWTNV_MvMsEr-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="174" y="-157" as="sourcePoint" />
+            <mxPoint x="334" y="-157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fs1Nh16mC9GJKJD3dH8-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="-nYmBwBEYYi-PyAtIwmz-8">
+          <mxGeometry x="-0.651" relative="1" as="geometry">
+            <mxPoint x="6" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fs1Nh16mC9GJKJD3dH8-3" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="-nYmBwBEYYi-PyAtIwmz-8">
+          <mxGeometry x="0.6904" relative="1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
