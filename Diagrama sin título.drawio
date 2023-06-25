@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T17:45:37.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IMItst30IXxw6DCDT3Um" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-25T18:12:20.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Khj2BLkxFn210ai1Xh-K" version="21.5.0" type="github" pages="3">
   <diagram id="QJvsyMhZOs_XTJo9W8Ai" name="Diagrama Tablas">
     <mxGraphModel dx="3447" dy="1940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1210,7 +1210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cDXR8At16hIQ23spoi4p" name="casos de uso">
-    <mxGraphModel dx="756" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="1555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1347,7 +1347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pjlsc9sFPnhXn3jyCtAY-13" value="autenticar usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1253" y="50.5" width="123" height="44" as="geometry" />
+          <mxGeometry x="1266" y="40" width="123" height="44" as="geometry" />
         </mxCell>
         <mxCell id="pjlsc9sFPnhXn3jyCtAY-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="pjlsc9sFPnhXn3jyCtAY-13" target="pjlsc9sFPnhXn3jyCtAY-11">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1357,7 +1357,7 @@
         </mxCell>
         <mxCell id="pjlsc9sFPnhXn3jyCtAY-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjlsc9sFPnhXn3jyCtAY-14">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint x="-12" y="-7" as="offset" />
+            <mxPoint x="-9" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pjlsc9sFPnhXn3jyCtAY-16" value="crear plan&lt;br&gt;microcurricular" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1454,6 +1454,121 @@
         </mxCell>
         <mxCell id="hoythyd_5jpaOBbaxdhi-18" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="909" y="616" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-19" value="iniciar sesion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="510" width="105" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-20" value="autenticar usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1274.5" y="503" width="123" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-20" target="hoythyd_5jpaOBbaxdhi-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1257" y="497" as="sourcePoint" />
+            <mxPoint x="1153" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-22" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-21">
+          <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-18" target="hoythyd_5jpaOBbaxdhi-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="945" y="517" as="sourcePoint" />
+            <mxPoint x="1061" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-24" value="crear usuarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="571" width="105" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-18" target="hoythyd_5jpaOBbaxdhi-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="959" y="641" as="sourcePoint" />
+            <mxPoint x="1094" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-26" value="asignar y revisar tareas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1052" y="636" width="122" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-18" target="hoythyd_5jpaOBbaxdhi-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="959" y="651" as="sourcePoint" />
+            <mxPoint x="1090" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-29" value="aprobar tarea" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="571" width="105" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-30" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-29" target="hoythyd_5jpaOBbaxdhi-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1304" y="676" as="sourcePoint" />
+            <mxPoint x="1187" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-31" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-30">
+          <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
+            <mxPoint x="-17" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-32" value="devolver&lt;br&gt;tarea" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="701" width="105" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-35" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-32" target="hoythyd_5jpaOBbaxdhi-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1279" y="610" as="sourcePoint" />
+            <mxPoint x="1182" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-36" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-35">
+          <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
+            <mxPoint x="-14" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-37" value="administrar carreras" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="719" width="133.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-38" value="administrar asignaturas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048.5" y="788.37" width="116.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-40" value="agregar comentarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="777.37" width="111" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-41" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-40" target="hoythyd_5jpaOBbaxdhi-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1283" y="695" as="sourcePoint" />
+            <mxPoint x="1188" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-42" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-41">
+          <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
+            <mxPoint x="-23" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-18" target="hoythyd_5jpaOBbaxdhi-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="959" y="657" as="sourcePoint" />
+            <mxPoint x="1084" y="664" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-44" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-18" target="hoythyd_5jpaOBbaxdhi-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="959" y="665" as="sourcePoint" />
+            <mxPoint x="1073" y="704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-45" value="exportar plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="636.63" width="111" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-48" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;" edge="1" parent="1" source="hoythyd_5jpaOBbaxdhi-45" target="hoythyd_5jpaOBbaxdhi-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1306" y="617" as="sourcePoint" />
+            <mxPoint x="1176" y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoythyd_5jpaOBbaxdhi-49" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hoythyd_5jpaOBbaxdhi-48">
+          <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
