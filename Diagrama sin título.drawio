@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T18:01:59.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iaIjzD4nfOKEtUyIaFtw" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-26T18:03:50.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qxzfKzjW9ws-nryhCKtd" version="21.5.0" type="github" pages="3">
   <diagram id="QJvsyMhZOs_XTJo9W8Ai" name="Diagrama Tablas">
     <mxGraphModel dx="2123" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1210,7 +1210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cDXR8At16hIQ23spoi4p" name="casos de uso">
-    <mxGraphModel dx="-78" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="523" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1266,9 +1266,9 @@
             <mxPoint x="1164.9677279651087" y="123.71277084979306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pjlsc9sFPnhXn3jyCtAY-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pjlsc9sFPnhXn3jyCtAY-19" vertex="1" connectable="0">
+        <mxCell id="pjlsc9sFPnhXn3jyCtAY-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=2;" parent="pjlsc9sFPnhXn3jyCtAY-19" vertex="1" connectable="0">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
-            <mxPoint x="4" y="-11" as="offset" />
+            <mxPoint x="-4" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pjlsc9sFPnhXn3jyCtAY-21" value="realizar tarea&lt;br&gt;asignada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1321,7 +1321,7 @@
             <mxPoint x="1288.5" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hoythyd_5jpaOBbaxdhi-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hoythyd_5jpaOBbaxdhi-9" vertex="1" connectable="0">
+        <mxCell id="hoythyd_5jpaOBbaxdhi-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=6;" parent="hoythyd_5jpaOBbaxdhi-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2741" y="-2" relative="1" as="geometry">
             <mxPoint x="-6" y="-9" as="offset" />
           </mxGeometry>
@@ -1455,7 +1455,7 @@
           <mxGeometry x="1234.9964965261017" y="699.0044478490629" as="geometry" />
         </mxCell>
         <mxCell id="nZZ77pr30Gors16wepMB-1" value="abjuntar&lt;br&gt;plan analitico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1288" y="240" width="111" height="48" as="geometry" />
+          <mxGeometry x="1286.5" y="245" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="nZZ77pr30Gors16wepMB-2" value="" style="endArrow=open;endFill=0;endSize=12;html=1;rounded=0;targetPerimeterSpacing=5;sourcePerimeterSpacing=10;dashed=1;" edge="1" parent="1" source="nZZ77pr30Gors16wepMB-1" target="pjlsc9sFPnhXn3jyCtAY-21">
           <mxGeometry width="160" relative="1" as="geometry">
